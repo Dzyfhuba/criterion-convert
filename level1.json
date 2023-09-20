@@ -1,0 +1,1089 @@
+[
+  {
+    "id_element": 0,
+    "element": "*",
+    "criteria": "*",
+    "children": [
+      {
+        "id_element": "1",
+        "element": "1",
+        "criteria": "",
+        "children": [
+          {
+            "id_element": "CRLIST190228052230",
+            "criteria": "Terdapat kebijakan K3 yang  tertulis bertanggal, ditandatangani oleh pengusaha atau pengurus, secara jelas menyatakan tujuan dan sasaran K3 serta komitmen terhadap peningkatan K3",
+            "element": "1.1.1",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190228052340",
+            "criteria": "Kebijakan disusun oleh pengusaha dan/atau pengurus setelah melalui proses konsultasi dengan wakil tenaga kerja",
+            "element": "1.1.2",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190228052359",
+            "criteria": "Perusahaan mengkomunikasikan, kebijakan, K3 kepada seluruh tenaga kerja, tamu, kontraktor, pelanggan, dan pemasok dengan tata cara yang tepat",
+            "element": "1.1.3",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190228052414",
+            "criteria": "Kebijakan khusus dibuat untuk masalah K3 yang bersifat khusus",
+            "element": "1.1.4",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190228052433",
+            "criteria": "Kebijakan K3 dan kebijakan khusus lainnya ditinjau ulang secara berkala untuk menjamin bahwa kebijakan tersebut sesuai dengan perubahan yang terjadi dalam perusahaan dan dalam peraturan perundang-perundangan",
+            "element": "1.1.5",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190228055303",
+            "criteria": "Tanggung jawab dan wewenang untuk mengambil tindakan dan melaporkan kepada semua pihak yang terkait dalam perusahaan di bidang K3 telah ditetapkan.",
+            "element": "1.2.1",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190228055338",
+            "criteria": "Penunjukan penanggung jawab K3 harus sesuai peraturan perundang-undangan",
+            "element": "1.2.2",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190228055348",
+            "criteria": "Pimpinan unit kerja dalam suatu perusahaan bertanggung jawab atas kinerja K3 pada unit kerjanya",
+            "element": "1.2.3",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190228055359",
+            "criteria": "Pengusaha atau pengurus bertanggung jawab secara penuh untuk menjamin pelaksanaan SKMK3",
+            "element": "1.2.4",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190228055409",
+            "criteria": "Petugas yang bertanggung jawab untuk penanganan keadaan darurat telah ditetapkan dan mendapatkan pelatihan",
+            "element": "1.2.5",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190228055429",
+            "criteria": "Perusahaan mendapatkan saran-saran dari para ahli di bidang K3 yang berasal dari dalam dan/atau luar perusahaan",
+            "element": "1.2.6",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190228055440",
+            "criteria": "Kinerja K3 termuat dalam laporan tahunan perusahaan atau laporan lain yang setingkat",
+            "element": "1.2.7",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190228055455",
+            "criteria": "Tinjauan terhadap penerapan SMK3 meliputi kebijakan, perencanaan, pelaksanaan, pemantauan dan evaluasi telah dilakukan, dicatat dan didokumentasikan",
+            "element": "1.3.1",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190228055518",
+            "criteria": "Hasil tinjauan dimasukkan dalam perencanaan tindakan manajemen",
+            "element": "1.3.2",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190228055533",
+            "criteria": "Pengurus harus meninjau ulang pelaksanaan SMK3 secara berkala untuk menilai kesesuaian dan efektivitas SMK3",
+            "element": "1.3.3",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190228055654",
+            "criteria": "Keterlibatan dan penjadwalan konsultasi tenaga kerja dengan wakil perusahaan didokumentasikan dan disebarluaskan ke seluruh tenaga kerja.",
+            "element": "1.4.1",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190228055708",
+            "criteria": "Terdapat prosedur yang memudahkan konsultasi mengenai perubahan-perubahan yang mempunyai implikasi terhadap K3",
+            "element": "1.4.2",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190228055718",
+            "criteria": "Perusahaan telah membentuk P2K3 sesuai dengan peraturan perundang-undangan",
+            "element": "1.4.3",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190228055729",
+            "criteria": "Ketua P2K3 adalah pimpinan puncak atau pengurus",
+            "element": "1.4.4",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190228055738",
+            "criteria": "Sekretaris P2K3 adalah ahli K3 sesuai dengan peraturan perundang-undangan",
+            "element": "1.4.5",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190228055748",
+            "criteria": "P2K3 menitikberatkan kegiatan pada pengembangan kebijakan dan prosedur mengendalikan risiko",
+            "element": "1.4.6",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190228055801",
+            "criteria": "Susunan pengurus P2K3 didokumentasikan dan diinformasikan kepada tenaga kerja",
+            "element": "1.4.7",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190228055812",
+            "criteria": "P2K3 mengadakan pertemuan secara teratur dan hasilnya disebarluaskan di tempat kerja",
+            "element": "1.4.8",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190228055823",
+            "criteria": "P2K3 melaporkan kegiatannya secara teratur sesuai dengan peraturan perundang-undangan",
+            "element": "1.4.9",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190228055834",
+            "criteria": "Dibentuk kelompok-kelompok kerja dan dipilih dari wakil-wakil tenaga kerja yang ditunjuk sebagai penanggung jawab K3 ditempat kerjanya dan kepadanya diberikan pelatihan sesuai dengan peraturan perundang-undangan",
+            "element": "1.4.10",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190228055849",
+            "criteria": "Susunan kelompok-kelompok kerja yang telah terbentuk didokumentasikan dan diinformasikan kepada tenaga kerja",
+            "element": "1.4.11",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id_element": "2",
+        "element": "2",
+        "criteria": "",
+        "children": [
+          {
+            "id_element": "CRLIST190228075343",
+            "criteria": "Terdapat prosedur terdokumentasi untuk identifikasi potensi bahaya, penelitian, dan pengendalian risiko K3",
+            "element": "2.1.1",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190228080245",
+            "criteria": "Identifikasi potensi bahaya, penilaian, dan pengendalian risiko K3 sebagai rencana strategi K3 dilakukan oleh petugas yang berkompeten",
+            "element": "2.1.2",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190228080303",
+            "criteria": "Rencana strategi K3 sekurang-kurangnya berdasarkan tinjauan awal, identifikasi potensi bahaya, penilaian, pengendalian risiko, dan peraturan perundang-undangan serta informasi K3 lain baik dari dalam maupun luar perusahaan",
+            "element": "2.1.3",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190228080313",
+            "criteria": "Rencana strategi K3 yang telah ditetapkan digunakan untuk mengendalikan risiko K3 dengan menetapkan tujuan dan sasaran yang dapat diukur dan menjadi prioritas serta menyediakan sumber daya",
+            "element": "2.1.4",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190228080324",
+            "criteria": "Rencana kerja dan rencana khusus yang berkaitan dengan produk, proses, proyek atau tempat kerja tertentu telah dibuat dengan menetapkan tujuan dan sasaran yang dapat diukur, menetapkam waktu pencapaian dan menyediakan sumber daya",
+            "element": "2.1.5",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190228080333",
+            "criteria": "Rencana K3 diselaraskan dengan rencana sistem manajemen perusahaan",
+            "element": "2.1.6",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190228080403",
+            "criteria": "Manual SMK3 meliputi kebijakan, tujuan, rencana, prosedur SMK3, instruksi kerja, formulir, catatan dan tanggung jawab serta wewenang tanggung jawab K3 untuk semua tingkatan dalam perusahaan",
+            "element": "2.2.1",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190228080413",
+            "criteria": "Terdapat manual khusus yang berkaitan dengan produk, proses, atau tempat kerja tertentu",
+            "element": "2.2.2",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190228080427",
+            "criteria": "Manual SMK3 mudah didapat oleh semua personil dalam perusahaan sesuai kebutuhan",
+            "element": "2.2.3",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190228080436",
+            "criteria": "Terdapat prosedur yang terdokumentasi untuk mengidentifikasi, memperoleh, memelihara dan memahami peraturan perundangan-undangan, standar, pedoman teknis, dan persyaratan lain yang relevan dibidang K3 untuk seluruh tenaga kerja di perusahaan",
+            "element": "2.3.1",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190228080446",
+            "criteria": "Penanggung jawab untuk memelihara dan mendistribusikan informasi terbaru mengenai peraturan perundang-undangan, standar, pedoman teknis, dan persyaratan lain telah ditetapkan",
+            "element": "2.3.2",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190228080455",
+            "criteria": "Persyaratan pada peraturan perundang-undangan, standar, pedoman teknis, dan persyaratan lain yang relevan di bidang K3 dimasukkan pada prosedur-prosedur dan petunjuk-petunjuk kerja",
+            "element": "2.3.3",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190228080505",
+            "criteria": "Perubahan pada peraturan perundang-undangan, standar, pedoman teknis, dan persyaratan lain yang relevan dibidang K3 digunakan untuk peninjauan prosedur-prosedur dan petunjuk-petunjuk kerja",
+            "element": "2.3.4",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190228080520",
+            "criteria": "informasi yang dibutuhkan mengenai kegiatan K3 disebarluaskan secara sistematis kepada seluruh tenaga kerja, tamu, kontraktor, pelanggan, dan pemasok",
+            "element": "2.4.1",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id_element": "3",
+        "element": "3",
+        "criteria": "",
+        "children": [
+          {
+            "id_element": "CRLIST190228080604",
+            "criteria": "Prosedur yang terdokumentasi mempertimbangkan identifikasi potensi bahaya, penilaian, dan pengendalian risiko yang dilakukan pada tahap perancangan dan modifikasi",
+            "element": "3.1.1",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190228080613",
+            "criteria": "Prosedur, instruksi kerja dalam penggunaan produk, pengoperasian mesin dan peralatan, instalasi, pesawat atau proses serta informasi lainnya yang berkaitan dengan K3 telah dikembangkan selama perancangan dan/atau modifikasi",
+            "element": "3.1.2",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190228080625",
+            "criteria": "Petugas yang berkompeten melakukan verifikasi bahwa perancangan dan/atau modofikasi memenuhi persyaratan K3 yang ditetapkan sebelum penggunaan hasil rancangan",
+            "element": "3.1.3",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190228080637",
+            "criteria": "Semua perubahan dan modifikasi perancangan yang mempunyai implikasi terhadap K3 diidentifikasikan, didokumentasikan, ditinjau ulang dan disetujui oleh petugas yang berwenang sebelum pelaksanaan",
+            "element": "3.1.4",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190228080648",
+            "criteria": "Prosedur yang terdokumentasi harus mampu mengidentifikasi bahaya dan menilai risiko K3 bagi tenaga kerja, lingkungan dan masyarakat, dimana prosedur tersebut digunakan pada saat memasok barang dan jasa dalam suatu kontrak",
+            "element": "3.2.1",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190228080657",
+            "criteria": "Identifikasi bahaya dan penilaian risiko dilakukan pada tinjauan kontrak oleh petugas yang berkompeten",
+            "element": "3.2.2",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190228080708",
+            "criteria": "kontrak ditinjau ulang untuk menjamin bahwa pemasok dapat memenuhi persyaratan K3 bagi pelanggan",
+            "element": "3.2.3",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190228080717",
+            "criteria": "Catatan tinjauan kontrak dipelihara dan didokumentasikan",
+            "element": "3.2.4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id_element": "4",
+        "element": "4",
+        "criteria": "",
+        "children": [
+          {
+            "id_element": "CRLIST190228080742",
+            "criteria": "Dokumen K3 Mempunyai identifikasi status, wewenang, tanggal pengeluaran dan tanggal modifikasi",
+            "element": "4.1.1",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190228080750",
+            "criteria": "Penerima distribusi dokumen tercantum dalam dokumen tersebut",
+            "element": "4.1.2",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190228080800",
+            "criteria": "Dokumen K3 edisi terbaru disimpan secara sistematis pada tempat yang ditentukan",
+            "element": "4.1.3",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190228080808",
+            "criteria": "Dokumen usang segera disingkirkan dari penggunaannya sedangkan dokumen usang yang disimpan untuk keperluan tertentu diberi tanda khusus",
+            "element": "4.1.4",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190228080819",
+            "criteria": "Terdapat sistem untuk membuat, menyetujui perubahan terhadap dokumen K3",
+            "element": "4.2.1",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190228080828",
+            "criteria": "Dalam hal ini terjadi perubahan diberikan alasan terjadinya perubahan dan tertera dalam dokumen atau lampirannya dan menginformasikan kepada pihak terkait",
+            "element": "4.2.2",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190228080837",
+            "criteria": "Terdapat prosedur pengendalian dokumen tua daftar seluruh dokumen yang mencantumkan status dari setiap dokumen tersebut, dalam upaya mencegah penggunaan dokumen yang usang",
+            "element": "4.2.3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id_element": "5",
+        "element": "5",
+        "criteria": "",
+        "children": [
+          {
+            "id_element": "CRLIST190228080853",
+            "criteria": "Terdapat prosedur yang terdokumentasi yang dapat menjamin bahwa spesifikasi teknik dan informasi lain yang relevan dengan K3 telah diperiksa sebelum keputusan untuk membeli. ",
+            "element": "5.1.1",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190228080904",
+            "criteria": "Spesifikasi pembelian untuk setiap sarana produksi, zat kimia atau jasa harus dilengkapi spesifikasi yang sesuai dengan persyaratan peraturan perundang-undangan dan standar K3. ",
+            "element": "5.1.2",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190228080912",
+            "criteria": "Konsultasi dengan tenaga kerja yang kompeten pada saat keputusan pembelian, dilakukan untuk menetapkan persyaratan K3 yang dicantumkan dalam spesifikasi pembelian dan diinformasikan kepada tenaga kerja yang menggunakannya. ",
+            "element": "5.1.3",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190228080922",
+            "criteria": "Kebutuhan pelatihan, pasokan alat pelindung diri dan perubahan terhadap prosedur kerja harus dipertimbangkan sebelum pembelian dan penggunaannya. ",
+            "element": "5.1.4",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190228080936",
+            "criteria": "Persyaratan K3 dievaluasi dan menjadi pertimbangan dalam seleksi pembelian.",
+            "element": "5.1.5",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190228080949",
+            "criteria": "Barang dan jasa yang dibeli diperiksa kesesuaiannya dengan spesifikasi pembelian.",
+            "element": "5.2.1",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190228081002",
+            "criteria": "Barang dan jasa yang dipasok pelanggan, sebelum digunakan terlebih dahulu diidentifikasi potensi bahaya dan dinilai risikonya dan catatan tersebut dipelihara untuk memeriksa prosedur.",
+            "element": "5.3.1",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190228081012",
+            "criteria": "Semua produk yang digunakan dalam proses produksi dapat diidentifikasi di seluruh tahapan produksi dan instalasi, jika terdapat potensi masalah K3. ",
+            "element": "5.4.1",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190228081045",
+            "criteria": "Terdapat prosedur yang terdokumentasi untuk penelusuran produk yang telah terjual, jika terdapat potensi masalah K3 di dalam penggunaannya.",
+            "element": "5.4.2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id_element": "6",
+        "element": "6",
+        "criteria": "",
+        "children": [
+          {
+            "id_element": "CRLIST190228081103",
+            "criteria": "Petugas yang kompeten telah mengidentifikasi bahaya, menilai dan mengendalikan risiko yang timbul dari suatu proses kerja.",
+            "element": "6.1.1",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190228081114",
+            "criteria": "Apabila upaya pengendalian risiko diperlukan, maka upaya tersebut ditetapkan melalui tingkat pengendalian.",
+            "element": "6.1.2",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190228081124",
+            "criteria": "Terdapat prosedur atau petunjuk kerja yang terdokumentasi untuk mengendalikan risiko yang teridentifikasi dan dibuat atas dasar masukan dari personil yang kompeten serta tenaga kerja yang terkait dan disahkan oleh orang yang berwenang di perusahaan.  ",
+            "element": "6.1.3",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190228081133",
+            "criteria": "Kepatuhan terhadap peraturan perundang-undangan, standar serta pedoman teknis yang relevan diperhatikan pada saat mengembangkan atau melakukan modifikasi atau petunjuk kerja. ",
+            "element": "6.1.4",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190228081142",
+            "criteria": "Terdapat sistem izin kerja untuk tugas berisiko tinggi. ",
+            "element": "6.1.5",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190228081158",
+            "criteria": "Alat pelindung diri disediakan sesuai kebutuhan dan digunakan secara benar serta selalu dipelihara dalam kondisi layak pakai.",
+            "element": "6.1.6",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190228081210",
+            "criteria": "Alat pelindung diri yang digunakan dipastikan telah dinyatakan layak pakai sesuai dengan standar dan/atau peraturan perundang-undangan yang berlaku. ",
+            "element": "6.1.7",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190228081218",
+            "criteria": "Upaya pengendalian risiko dievaluasi secara berkala apabila terjadi ketidaksesuaian atau perubahan pada proses kerja.",
+            "element": "6.1.8",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190228081305",
+            "criteria": "Dilakukan pengawasan untuk menjamin bahwa setiap pekerjaan dilaksanakan dengan aman dan mengikuti prosedur dan petunjuk kerja yang telah ditentukan. ",
+            "element": "6.2.1",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190304100119",
+            "criteria": "Setiap orang diawasi sesuai dengan tingkat kemampuan dan tingkat risiko tugas.",
+            "element": "6.2.2",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190304100131",
+            "criteria": "Pengawas/penyelia ikut serta dalam identifikasi bahaya dan membuat upaya pengendalian..",
+            "element": "6.2.3",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190304100212",
+            "criteria": "Pengawas/penyelia diikutsertakan dalam melakukan penyelidikan dan pembuatan laporan terhadap terjadinya kecelakaan dan penyakit akibat kerja serta wajib menyerahkan laporan dan saran-saran kepada pengusaha atau pengurus. ",
+            "element": "6.2.4",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190304100225",
+            "criteria": "Pengawas/penyelia ikut serta dalam proses konsultasi",
+            "element": "6.2.5",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190304100238",
+            "criteria": "Persyaratan tugas tertentu termasuk persyaratan kesehatan diidentifikasi dan dipakai untuk menyeleksi dan menempatkan tenaga kerja. ",
+            "element": "6.3.1",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190304100256",
+            "criteria": "Penugasan pekerjaan harus berdasarkan kemampuan dan keterampilan serta kewenangan yang dimiliki.",
+            "element": "6.3.2",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190304100308",
+            "criteria": "Pengusaha atau pengurus melakukan penilaian risiko lingkungan kerja untuk mengetahui daerah-daerah yang memerlukan pembatasan izin masuk. ",
+            "element": "6.4.1",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190304100321",
+            "criteria": "Terdapat pengendalian atas daerah/tempat dengan pembatasan izin masuk. ",
+            "element": "6.4.2",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190304100344",
+            "criteria": "Tersedianya fasilitas dan layanan di tempat kerja sesuai dengan standar dan pedoman teknis.",
+            "element": "6.4.3",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190304100356",
+            "criteria": "Rambu-rambu K3 harus dipasang sesuai dengan standar dan pedoman teknis.",
+            "element": "6.4.4",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190304100419",
+            "criteria": "Penjadualan pemeriksaan dan pemeliharaan sarana produksi serta peralatan mencakup verifikasi alat-alat pengaman serta persyaratan yang ditetapkan oleh peraturan perundang-undangan, standar dan pedoman teknis yang relevan. ",
+            "element": "6.5.1",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190304100431",
+            "criteria": "Semua catatan yang memuat data secara rinci dari kegiatan pemeriksaan, pemeliharaan, perbaikan dan perubahan yang dilakukan atas sarana dan peralatan produksi harus disimpan dan dipelihara. ",
+            "element": "6.5.2",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190304100441",
+            "criteria": "Sarana dan peralatan produksi memiliki sertifikat yang masih berlaku sesuai dengan persyaratan peraturan perundang-undangan dan standar. ",
+            "element": "6.5.3",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190304100450",
+            "criteria": "Pemeriksaan, pemeliharaan, perawatan, perbaikan dan setiap perubahan harus dilakukan petugas yang kompeten dan berwenang. ",
+            "element": "6.5.4",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190304100501",
+            "criteria": "Terdapat prosedur untuk menjamin bahwa Jika terjadi perubahan terhadap sarana dan peralatan produksi, perubahan tersebut harus sesuai dengan persyaratan peraturan perundang-undangan, standar dan pedoman teknis yang relevan.",
+            "element": "6.5.5",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190304100516",
+            "criteria": "Terdapat prosedur permintaan pemeliharaan sarana dan peralatan produksi dengan kondisi K3 yang tidak memenuhi persyaratan dan perlu segera diperbaiki.  ",
+            "element": "6.5.6",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190304100535",
+            "criteria": "Terdapat sistem untuk penandaan bagi peralatan yang sudah tidak aman lagi untuk digunakan atau sudah tidak digunakan.",
+            "element": "6.5.7",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190304100549",
+            "criteria": "Apabila diperlukan dilakukan penerapan sistem penguncian pengoperasian (lock out system) untuk mencegah agar sarana produksi tidak dihidupkan sebelum saatnya. ",
+            "element": "6.5.8",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190304100558",
+            "criteria": "Terdapat prosedur yang dapat menjamin keselamatan dan kesehatan tenaga kerja atau orang lain yang berada didekat sarana dan peralatan produksi pada saat proses pemeriksaan, pemeliharaan, perbaikan dan perubahan. ",
+            "element": "6.5.9",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190304100617",
+            "criteria": "Terdapat penanggung jawab untuk menyetujui bahwa sarana dan peralatan produksi telah aman digunakan setelah proses pemeliharaan, perawatan, perbaikan atau perubahan.",
+            "element": "6.5.10",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190304100634",
+            "criteria": "Apabila perusahaan dikontrak untuk menyediakan pelayanan yang tunduk pada standar dan peraturan perundang-undangan mengenai K3, maka perlu disusun prosedur untuk menjamin bahwa pelayanan memenuhi persyaratan.",
+            "element": "6.6.1",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190304100651",
+            "criteria": "Apabila perusahaan diberi pelayanan melalui kontrak, dan pelayanan tunduk pada standar dan peraturan perundang-undangan K3, maka perlu disusun prosedur untuk menjamin bahwa pelayanan memenuhi persyaratan.",
+            "element": "6.6.2",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190304100704",
+            "criteria": "Keadaan darurat yang potensial di dalam dan/atau di luar tempat kerja telah diidentifikasi dan prosedur keadaan darurat telah didokumentasikan dan diinformasikan agar diketahui oleh seluruh orang yang ada di tempat kerja. ",
+            "element": "6.7.1",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190304100718",
+            "criteria": "Penyediaan alat/sarana dan prosedur keadaan darurat berdasarkan hasil identifikasi dan diuji serta ditinjau secara rutin oleh petugas yang berkompeten dan berwenang. ",
+            "element": "6.7.2",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190304100729",
+            "criteria": "Tenaga kerja mendapat instruksi dan pelatihan mengenai prosedur keadaan darurat yang sesuai dengan tingkat risiko. ",
+            "element": "6.7.3",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190304100741",
+            "criteria": "Petugas penanganan keadaan darurat ditetapkan dan diberikan pelatihan khusus serta diinformasikan kepada seluruh orang yang ada di tempat kerja. ",
+            "element": "6.7.4",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190304100755",
+            "criteria": "Instruksi/prosedur keadaan darurat dan hubungan keadaan darurat diperlihatkan secara jelas dan menyolok serta diketahui oleh seluruh tenaga kerja di perusahaan.",
+            "element": "6.7.5",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190304100807",
+            "criteria": "Peralatan, dan sistem tanda bahaya keadaan darurat disediakan, diperiksa, diuji dan dipelihara secara berkala sesuai dengan peraturan perundang-undangan, standar dan pedoman teknis yang relevan. ",
+            "element": "6.7.6",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190304100824",
+            "criteria": "Jenis, jumlah, penempatan dan kemudahan untuk mendapatkan alat keadaan darurat telah sesuai dengan peraturan perundang-undangan atau standar dan dinilai oleh petugas yang berkompeten dan berwenang.",
+            "element": "6.7.7",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190304100835",
+            "criteria": "Perusahaan telah mengevaluasi alat P3K dan menjamin bahwa sistem P3K yang ada memenuhi peraturan perundang-undangan, standar dan pedoman teknis.",
+            "element": "6.8.1",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190304100846",
+            "criteria": "Petugas P3K telah dilatih dan ditunjuk sesuai dengan peraturan perundangan-undangan.",
+            "element": "6.8.2",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190304100858",
+            "criteria": "Prosedur untuk pemulihan kondisi tenaga kerja maupun sarana dan peralatan produksi yang mengalami kerusakan telah ditetapkan dan dapat diterapkan sesegera mungkin setelah terjadinya kecelakaan dan penyakit akibat kerja.",
+            "element": "6.9.1",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id_element": "7",
+        "element": "7",
+        "criteria": "",
+        "children": [
+          {
+            "id_element": "CRLIST190304100941",
+            "criteria": "Pemeriksaan/inspeksi terhadap tempat kerja dan cara kerja dilaksanakan secara teratur.",
+            "element": "7.1.1",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190304100955",
+            "criteria": "Pemeriksaan/inspeksi dilaksanakan oleh petugas yang berkompeten dan berwenang yang telah memperoleh pelatihan mengenai identifikasi bahaya.",
+            "element": "7.1.2",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190304101007",
+            "criteria": "Pemeriksaan/inspeksi mencari masukan dari tenaga kerja yang melakukan tugas di tempat yang diperiksa.",
+            "element": "7.1.3",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190304101021",
+            "criteria": "Daftar periksa (check list) tempat kerja telah disusun untuk digunakan pada saat pemeriksaan/inspeksi.",
+            "element": "7.1.4",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190304101031",
+            "criteria": "Laporan pemeriksaan/inspeksi berisi rekomendasi untuk tindakan perbaikan dan diajukan kepada pengurus dan P2K3 sesuai dengan kebutuhan.",
+            "element": "7.1.5",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190304101041",
+            "criteria": "Pengusaha atau pengurus telah menetapkan penanggung jawab untuk pelaksanaan tindakan perbaikan dari hasil laporan pemeriksaan/inspeksi. ",
+            "element": "7.1.6",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190304101052",
+            "criteria": "Tindakan perbaikan dari hasil laporan pemeriksaan/inspeksi dipantau untuk menentukan efektifitasnya.",
+            "element": "7.1.7",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190304101102",
+            "criteria": "Pemantauan/pengukuran lingkungan kerja dilaksanakan secara teratur dan hasilnya didokumentasikan, dipelihara dan digunakan untuk penilaian dan pengendalian risiko. ",
+            "element": "7.2.1",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190304101114",
+            "criteria": "Pemantauan/pengukuran lingkungan kerja meliputi faktor fisik, kimia, biologi, ergonomi dan psikologi.",
+            "element": "7.2.2",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190304101126",
+            "criteria": "Pemantauan/pengukuran lingkungan kerja dilakukan oleh petugas atau pihak yang berkompeten dan berwenang dari dalam dan/atau luar perusahaan.",
+            "element": "7.2.3",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190304101140",
+            "criteria": "Terdapat prosedur yang terdokumentasi mengenai identifikasi, kalibrasi, pemeliharaan dan penyimpanan untuk alat pemeriksaan, ukur dan uji mengenai K3. ",
+            "element": "7.3.1",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190304101156",
+            "criteria": "Alat dipelihara dan dikalibrasi oleh petugas atau pihak yang berkompeten dan berwenang dari dalam dan/atau luar perusahaan.",
+            "element": "7.3.2",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190304101218",
+            "criteria": "Dilakukan pemantauan kesehatan tenaga kerja yang bekerja pada tempat kerja yang mengandung potensi bahaya tinggi sesuai dengan peraturan perundang-undangan. ",
+            "element": "7.4.1",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190304101235",
+            "criteria": "Pengusaha atau pengurus telah melaksanakan identifikasi keadaan dimana pemeriksaan kesehatan tenaga kerja perlu dilakukan dan telah melaksanakan sistem untuk membantu pemeriksaan ini. ",
+            "element": "7.4.2",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190304101251",
+            "criteria": "Pemeriksaan kesehatan tenaga kerja dilakukan oleh dokter pemeriksa yang ditunjuk sesuai peraturan perundang-undangan.",
+            "element": "7.4.3",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190304101302",
+            "criteria": "Perusahaan menyediakan pelayanan kesehatan kerja sesuai peraturan perundang-undangan. ",
+            "element": "7.4.4",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190304101318",
+            "criteria": "Catatan mengenai pemantauan kesehatan tenaga kerja dibuat sesuai dengan peraturan perundang-undangan.",
+            "element": "7.4.5",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id_element": "8",
+        "element": "8",
+        "criteria": "",
+        "children": [
+          {
+            "id_element": "CRLIST190304101332",
+            "criteria": "Terdapat prosedur pelaporan bahaya yang berhubungan dengan K3 dan prosedur ini diketahui oleh tenaga kerja. ",
+            "element": "8.1.1",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190304101346",
+            "criteria": "Terdapat prosedur terdokumentasi yang menjamin bahwa semua kecelakaan kerja, penyakit akibat kerja, kebakaran atau peledakan serta kejadian berbahaya lainnya di tempat kerja dicatat dan dilaporkan sesuai dengan peraturan perundang-undangan.",
+            "element": "8.2.1",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190304101356",
+            "criteria": "Tempat kerja/perusahaan mempunyai prosedur pemeriksaan dan pengkajian kecelakaan kerja dan penyakit akibat kerja. ",
+            "element": "8.3.1",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190304101406",
+            "criteria": "Pemeriksaan dan pengkajian kecelakaan kerja dilakukan oleh petugas atau Ahli K3 yang ditunjuk sesuai peraturan perundang-undangan atau pihak lain yang berkompeten dan berwenang.",
+            "element": "8.3.2",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190304101415",
+            "criteria": "Laporan pemeriksaan dan pengkajian berisi tentang sebab dan akibat serta rekomendasi/saran dan jadwal waktu pelaksanaan usaha perbaikan. ",
+            "element": "8.3.3",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190304101427",
+            "criteria": "Penanggung jawab untuk melaksanakan tindakan perbaikan atas laporan pemeriksaan dan pengkajian telah ditetapkan. ",
+            "element": "8.3.4",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190304101439",
+            "criteria": "Tindakan perbaikan diinformasikan kepada tenaga kerja yang bekerja di tempat terjadinya kecelakaan. ",
+            "element": "8.3.5",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190304101450",
+            "criteria": "Pelaksanaan tindakan perbaikan dipantau, didokumentasikan dan diinformasikan ke seluruh tenaga kerja. ",
+            "element": "8.3.6",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190304101506",
+            "criteria": "Terdapat prosedur untuk menangani masalah keselamatan dan kesehatan yang timbul dan sesuai dengan peraturan perundang-undangan yang berlaku. ",
+            "element": "8.4.1",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id_element": "9",
+        "element": "9",
+        "criteria": "",
+        "children": [
+          {
+            "id_element": "CRLIST190304101525",
+            "criteria": "Terdapat prosedur untuk mengidentifikasi potensi bahaya dan menilai risiko yang berhubungan dengan penanganan secara manual dan mekanis. ",
+            "element": "9.1.1",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190304101535",
+            "criteria": "Identifikasi bahaya dan penilaian risiko dilaksanakan oleh petugas yang berkompeten dan berwenang.",
+            "element": "9.1.2",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190304101546",
+            "criteria": "Pengusaha atau pengurus menerapkan dan meninjau cara pengendalian risiko yang berhubungan dengan penanganan secara manual atau mekanis. ",
+            "element": "9.1.3",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190304101554",
+            "criteria": "Terdapat prosedur untuk penanganan bahan meliputi metode pencegahan terhadap kerusakan, tumpahan dan/atau kebocoran.",
+            "element": "9.1.4",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190304101603",
+            "criteria": "Terdapat prosedur yang menjamin bahwa bahan disimpan dan dipindahkan dengan cara yang aman sesuai dengan peraturan perundang-undangan. ",
+            "element": "9.2.1",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190304101614",
+            "criteria": "Terdapat prosedur yang menjelaskan persyaratan pengendalian bahan yang dapat rusak atau kadaluarsa. ",
+            "element": "9.2.2",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190304101625",
+            "criteria": "Terdapat prosedur yang menjamin bahwa bahan dibuang dengan cara yang aman sesuai dengan peraturan perundang-undangan. ",
+            "element": "9.2.3",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190304101642",
+            "criteria": "Perusahaan telah mendokumentasikan dan menerapkan prosedur mengenai penyimpanan, penanganan dan pemindahan BKB sesuai dengan persyaratan peraturan perundang-undangan, standar dan pedoman teknis yang relevan.",
+            "element": "9.3.1",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190304101653",
+            "criteria": "Terdapat Lembar Data Keselamatan BKB (Material Safety Data Sheets) meliputi keterangan mengenai keselamatan bahan sebagaimana diatur pada peraturan perundang-undangan dan dengan mudah dapat diperoleh.  ",
+            "element": "9.3.2",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190304101711",
+            "criteria": "Terdapat sistem untuk mengidentifikasi dan pemberian label secara jelas pada bahan kimia berbahaya.",
+            "element": "9.3.3",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190304101720",
+            "criteria": "Rambu peringatan bahaya terpasang sesuai dengan persyaratan peraturan perundang-undangan dan/atau standar yang relevan. ",
+            "element": "9.3.4",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190304101730",
+            "criteria": "Penanganan BKB dilakukan oleh petugas yang berkompeten dan berwenang.",
+            "element": "9.3.5",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id_element": "10",
+        "element": "10",
+        "criteria": "",
+        "children": [
+          {
+            "id_element": "CRLIST190304101743",
+            "criteria": "Pengusaha atau pengurus telah mendokumentasikan dan menerapkan prosedur pelaksanaan identifikasi, pengumpulan, pengarsipan, pemeliharaan, penyimpanan dan penggantian catatan K3. ",
+            "element": "10.1.1",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190304101755",
+            "criteria": "Peraturan perundang-undangan, standar dan pedoman teknis K3 yang relevan dipelihara pada tempat yang mudah didapat. ",
+            "element": "10.1.2",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190304101807",
+            "criteria": "Terdapat prosedur yang menentukan persyaratan untuk menjaga kerahasiaan catatan.",
+            "element": "10.1.3",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190304101816",
+            "criteria": "Catatan kompensasi kecelakaan dan rehabilitasi kesehatan tenaga kerja dipelihara. ",
+            "element": "10.1.4",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190304101832",
+            "criteria": "Data K3 yang terbaru dikumpulkan dan dianalisa. ",
+            "element": "10.2.1",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190304101844",
+            "criteria": "Laporan rutin kinerja K3 dibuat dan disebarluaskan di dalam tempat kerja.",
+            "element": "10.2.2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id_element": "11",
+        "element": "11",
+        "criteria": "",
+        "children": [
+          {
+            "id_element": "CRLIST190304101854",
+            "criteria": "Audit internal SMK3 yang terjadwal dilaksanakan untuk memeriksa kesesuaian kegiatan perencanaan dan untuk menentukan efektifitas kegiatan tersebut. ",
+            "element": "11.1.1",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190304101910",
+            "criteria": "Audit internal SMK3 dilakukan oleh petugas yang independen, berkompeten dan berwenang. ",
+            "element": "11.1.2",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190304101921",
+            "criteria": "Laporan audit didistribusikan kepada pengusaha atau pengurus dan petugas lain yang berkepentingan dan dipantau untuk menjamin dilakukannya tindakan perbaikan. ",
+            "element": "11.1.3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id_element": "12",
+        "element": "12",
+        "criteria": "",
+        "children": [
+          {
+            "id_element": "CRLIST190304101932",
+            "criteria": "Analisis kebutuhan pelatihan K3 sesuai persyaratan peraturan perundang-undangan telah dilakukan. ",
+            "element": "12.1.1",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190304101941",
+            "criteria": "Rencana pelatihan K3 bagi semua tingkatan telah disusun.",
+            "element": "12.1.2",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190304101951",
+            "criteria": "Jenis pelatihan K3 yang dilakukan harus disesuaikan dengan kebutuhan untuk pengendalian potensi bahaya. ",
+            "element": "12.1.3",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190304102003",
+            "criteria": "Pelatihan dilakukan oleh orang atau badan yang berkompeten dan berwenang sesuai peraturan perundang-undangan. ",
+            "element": "12.1.4",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190304102015",
+            "criteria": "Terdapat fasilitas dan sumber daya memadai untuk pelaksanaan pelatihan yang efektif. ",
+            "element": "12.1.5",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190304102024",
+            "criteria": "Pengusaha atau pengurus mendokumentasikan dan menyimpan catatan seluruh pelatihan. ",
+            "element": "12.1.6",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190304102033",
+            "criteria": "Program pelatihan ditinjau secara teratur untuk menjamin agar tetap relevan dan efektif.",
+            "element": "12.1.7",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190304102046",
+            "criteria": "Anggota manajemen eksekutif dan pengurus berperan serta dalam pelatihan yang mencakup penjelasan tentang kewajiban hukum dan prinsip-prinsip serta pelaksanaan K3. ",
+            "element": "12.2.1",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190304102100",
+            "criteria": "Manajer dan pengawas/penyelia menerima pelatihan yang sesuai dengan peran dan tanggung jawab mereka. ",
+            "element": "12.2.2",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190304102109",
+            "criteria": "Pelatihan diberikan kepada semua tenaga kerja termasuk tenaga kerja baru dan yang dipindahkan agar mereka dapat melaksanakan tugasnya secara aman. ",
+            "element": "12.3.1",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190304102127",
+            "criteria": "Pelatihan diberikan kepada tenaga kerja apabila di tempat kerjanya terjadi perubahan sarana produksi atau proses.",
+            "element": "12.3.2",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190304102138",
+            "criteria": "Pengusaha atau pengurus memberikan pelatihan penyegaran kepada semua tenaga kerja.",
+            "element": "12.3.3",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190304102150",
+            "criteria": "Terdapat prosedur yang menetapkan persyaratan untuk memberikan taklimat (briefing) kepada pengunjung dan mitra kerja guna menjamin K3. ",
+            "element": "12.4.1",
+            "children": []
+          },
+          {
+            "id_element": "CRLIST190304102159",
+            "criteria": "Perusahaan mempunyai sistem yang menjamin kepatuhan terhadap persyaratan lisensi atau kualifikasi sesuai dengan peraturan perundangan untuk melaksanakan tugas khusus, melaksanakan pekerjaan atau mengoperasikan peralatan.",
+            "element": "12.5.1",
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+]
